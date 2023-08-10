@@ -1,2 +1,3 @@
 # benchmark-target-config
-sample configuration 
+
+sample configuration
