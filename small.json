@@ -2,5 +2,7 @@
     "filename": "small",
     "context/type": "application/json",
     "file_extension": "json",
-    "link": "https://www.json.org/json-en.html"
+    "description": "example of a small json document!",
+    "link": "https://www.json.org/json-en.html",
+    "comment" : "nothing to comment about here ..."
 }
